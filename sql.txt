@@ -1,0 +1,3 @@
+INSERT INTO klienci
+  VALUES (kowalski_jan, nowak_piotr, wasyl_roman),
+  
